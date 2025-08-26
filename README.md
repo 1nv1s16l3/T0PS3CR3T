@@ -1,2 +1,3 @@
 # T0PS3CR3T
-The Leak 2 : DSI2025{746f707365637265745f6f73696e745f32}
+
+How I can hidding my secret
